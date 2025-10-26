@@ -39,4 +39,6 @@ This project demonstrates **data cleaning (ETL)**, a **Flask REST API**, and an 
 
 ---
 
-## 🧩 Project Structure
+## 🧩 How to Run Locally
+Clone → install requirements → run Flask & Streamlit → open `localhost:8501`
+
